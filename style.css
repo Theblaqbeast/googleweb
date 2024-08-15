@@ -1,0 +1,73 @@
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+   
+} 
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px
+   
+    
+}
+
+.container img {
+    width: 400px;
+
+
+}
+
+.container input {
+    height: 45px;
+    width: 700px;
+    margin-top: 20px;
+    border-radius: 30px;
+       
+}
+
+.lower {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.g2 {
+    margin-right: 20px;
+}
+
+.g3 {
+    margin-left: 20px;
+}
+
+.last {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.link1{
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.link2{
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.link3{
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.link4{
+    margin-left: 8px;
+    margin-right: 8px;
+}
